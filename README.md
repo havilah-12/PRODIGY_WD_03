@@ -6,7 +6,7 @@ Using HTML,CSS and Javascript, I  implemented functions to handle user clicks, t
 users can play against each other or against an AI opponent, aiming to get three markers in a row to win the game.
 
 ## Contributing
-We welcome any and all contributions! Here are some ways you can get started:
+I feel gratitude and motivated for the contributions! Here are some ways you can get started:
 1. Report bugs: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
 2. Contribute code: If you are a developer and want to contribute, follow the instructions below to get started!
 3. Suggestions: If you don't want to code but have some awesome ideas, open up an issue explaining some updates or imporvements you would like to see!
