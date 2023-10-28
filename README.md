@@ -2,7 +2,8 @@
 Tic Tac Toe Web Application
 
 ## Description
-Using HTML,CSS and Javascript, I  implemented functions to handle user clicks, track game state, and checked  for winning conditions and created an interactive, engaging tic-tac-toe game.
+Technologies Used: HTML,CSS & Javscript.
+Implemented functions to handle user clicks, track game state, and checked  for winning conditions.
 users can play against each other or against an AI opponent, aiming to get three markers in a row to win the game.
 
 ## Contributing
