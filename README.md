@@ -3,9 +3,10 @@ Tic Tac Toe Web Application
 
 ## Description
 Technologies Used: HTML,CSS & Javscript.
-Implemented functions to handle user clicks, track game state, and checked  for winning conditions ( X or O ).
-users can play against each other or against an AI opponent, aiming to get three markers in a row to win the game.
-Winner is displayed after each game.
+Implemented functions to handle user clicks, track game state , means it display which user's turn it is and checked  for winning conditions ( X or O ).
+users can play against each other , aiming to get three markers in a row to win the game.
+Winner is displayed after each game and Reset can  be done.
+My LinkedIn : https://www.linkedin.com/in/havilah12/
 
 ## Contributing
 I feel gratitude and motivated for the contributions! Here are some ways you can get started:
