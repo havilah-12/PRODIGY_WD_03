@@ -1,5 +1,6 @@
 # PRODIGY_WD_03
-Tic Tac Toe Web Application
+## Tic Tac Toe Web Application
+![image](https://github.com/havilah-12/PRODIGY_WD_03/assets/142531190/73b5d853-3c9e-4176-b107-8a8e992540b6)
 
 ## Description
 Technologies Used: HTML,CSS & Javscript.
