@@ -1,0 +1,88 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.background {
+    background-image: url('background.webp');
+    height: 100vh;
+    padding-top: 1px;
+}
+
+.title {
+    color: rgb(44, 69, 58);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 5%;
+}
+
+.display {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.hide {
+    display: none;
+}
+
+.container {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 33% 33% 33%;
+    max-width: 300px;
+
+}
+
+.tile {
+    border: 1px solid rgb(0, 0, 0 );
+    min-width: 100px;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.playerX {
+    color: rgb(60, 156, 57);
+}
+
+.playerO {
+    color: #ddb112;
+}
+
+.controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+}
+
+.controls button {
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+    font-size: 20px;
+    margin-left: 1em;
+    cursor: pointer;
+}
+
+.restart {
+    background-color: #fb49e0;
+}
+
+#reset {
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    background-color: rgb(115, 153, 115);
+}
